@@ -1,0 +1,14 @@
+/* ============================================
+   EXEMPLO 1: Hello World em CATY
+   A primeira vibração neural
+   ============================================ */
+
+⚛️ mensagem = "Bem-vindo à CATY! 🎉";
+🌊 mensagem;
+
+/* Explicação:
+   ⚛️ = Cria uma variável (Atomo Zero)
+   🌊 = Imprime na tela (Exocyrt - Frequência Yotta)
+   
+   Simples assim!
+*/

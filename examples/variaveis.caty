@@ -1,0 +1,26 @@
+/* ============================================
+   EXEMPLO 2: Variáveis em CATY
+   Criando matéria na memória atômica (⚛️)
+   ============================================ */
+
+⚛️ nome = "Seu Nome";
+⚛️ idade = 25;
+⚛️ programador = "true";
+
+🌊 "Olá, meu nome é: ";
+🌊 nome;
+
+🌊 "Tenho essa idade: ";
+🌊 idade;
+
+🌊 "Sou programador?: ";
+🌊 programador;
+
+/* Explicação:
+   Você pode criar variáveis de qualquer tipo:
+   - Strings: "texto"
+   - Números: 25
+   - Booleanos: "true" ou "false"
+   
+   Cada variável é isolada na memória atômica!
+*/

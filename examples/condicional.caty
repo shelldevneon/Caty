@@ -1,0 +1,28 @@
+/* ============================================
+   EXEMPLO 4: Condicionais em CATY
+   Bifurcação Lógica - Consciência Neural (🧬)
+   ============================================ */
+
+⚛️ idade = 18;
+
+🌊 "Verificando sua maioridade...";
+🌊 "";
+
+/* Bifurcação lógica - Karyoth */
+🧬 (idade >= 18) ⟐ {
+    🌊 "✅ Você é MAIOR DE IDADE!";
+    🌊 "Bem-vindo ao mundo adulto.";
+}
+
+🌊 "";
+🌊 "Verificação concluída.";
+
+/* Explicação:
+   🧬 = Bifurcação lógica (Karyoth)
+   ⟐ = Separador de condição e ação
+   
+   Se (idade >= 18) for verdadeiro, executa o bloco
+   Senão, continua
+   
+   Você pode testar com diferentes valores de idade!
+*/

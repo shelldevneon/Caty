@@ -1,0 +1,34 @@
+/* ============================================
+   EXEMPLO 3: Fibonacci em CATY
+   Demonstrando loops neurais (🔄)
+   ============================================ */
+
+⚛️ a = 0;
+⚛️ b = 1;
+⚛️ n = 10;
+⚛️ contador = 0;
+
+🌊 "Sequência Fibonacci até ";
+🌊 n;
+🌊 "";
+
+/* Loop de repetição - Limeny (Pulso contínuo) */
+🔄 (contador < n) {
+    🌊 a;
+    
+    /* Cálculo do próximo número */
+    ⚛️ temp = a + b;
+    ⚛️ a = b;
+    ⚛️ b = temp;
+    
+    ⚛️ contador = contador + 1;
+}
+
+🌊 "";
+🌊 "✅ Fibonacci concluído!";
+
+/* Explicação:
+   🔄 = Loop While (Limeny - Pulso neural)
+   Cada iteração faz o cálculo e incrementa o contador
+   Quando contador >= n, o loop para
+*/
