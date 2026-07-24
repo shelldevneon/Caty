@@ -1,0 +1,34 @@
+/* ============================================
+   EXEMPLO 5: Entrada de Dados em CATY
+   Capturando sinais - Sentinel Pulse (📡)
+   ============================================ */
+
+📡 seu_nome = "Qual é o seu nome? ";
+
+🌊 "Olá, ";
+🌊 seu_nome;
+🌊 "! Bem-vindo à CATY!";
+
+🌊 "";
+
+📡 sua_idade = "Quantos anos você tem? ";
+
+🌊 "Você tem ";
+🌊 sua_idade;
+🌊 " anos.";
+
+🌊 "";
+🌊 "✨ Obrigado por usar CATY! ✨";
+
+/* Explicação:
+   📡 = Input/Captura de dados (Sentinel Pulse)
+   
+   Quando você executa este programa:
+   1. CATY pede seu nome
+   2. Armazena na variável 'seu_nome'
+   3. Imprime de volta
+   4. Pede sua idade
+   5. Imprime tudo formatado
+   
+   Teste este exemplo!
+*/
